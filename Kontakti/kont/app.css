@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	font size: 14px;
+	color: #000;
+
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	font size: 24px;
+	font-weight: bold;
+	color: #ccccff;
+	width: 8%;
+}
+
+body {
+	background-image: url(background.jpg);
+	padding-left:25%;
+	padding-top: 10%;
+	color: #ccccff;
+	font-family: Helvetica, sans-serif;
+	font size: 20px;
+	font-weight: bold;
+
+}
+
+pre {
+	font-family: Helvetica, sans-serif;
+}
+
+button {
+	background-color: #ccccff;
+	color: #99c2ff;
+	border: none;
+	border-radius: 10px;
+	font-size: large;
+	font-weight: bold;
+}
+.submit-button{
+	background-color: #ccccff;
+	color: #99c2ff;
+	border: none;
+	border-radius: 10px;
+	font-size: large;
+	font-weight: bold;
+}
+
+.reset-button{
+	background-color: #ccccff;
+	color: #99c2ff;
+	border: none;
+	border-radius: 10px;
+	font-size: large;
+	font-weight: bold;
+}
+
+#kontakti {
+  width:100%;
+  color: blue
+}
+
+
+
+
+
+

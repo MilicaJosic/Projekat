@@ -1,0 +1,20 @@
+{
+  "name": "kontakti",
+  "version": "1.0.0",
+  "description": "Web aplikacija za kontakte",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChibiChubbyBunny/Praktikum"
+  },
+  "author": "Ana Obrenovic, Milica Josic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChibiChubbyBunny/Praktikum/issues"
+  },
+  "homepage": "https://github.com/ChibiChubbyBunny/Praktikum#readme"
+}
